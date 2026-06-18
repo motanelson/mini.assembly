@@ -1,1 +1,1 @@
-debug change vars on dict
+must install linux pack "radare2"
